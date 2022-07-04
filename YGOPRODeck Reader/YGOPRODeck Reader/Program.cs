@@ -28,39 +28,114 @@ namespace YGOPRODeck_Reader
                 "286001.ydk",
                 "292288.ydk",
                 "286357.ydk",
-                "291094.ydk"};
+                "291094.ydk" 
+        };
 
         static void Main(string[] args)
         {
+            int select = 0;
             Database database = Database.Load("card_database.txt");
-            Console.WriteLine("Do you want to see the entire database? (Y/N)");
-            Console.Write("Input: ");
-
-            #region Confirm // Needs to check if the line can even be parsed.
-            char confirm = char.Parse(Console.ReadLine());
-            if (char.ToUpper(confirm) == 'Y')
-            {
-                Console.WriteLine();
-                database.Write();
-            }
-            Console.WriteLine();
-            #endregion
-
             LinkedList<int> list = Function.Count(files);
 
-            Console.WriteLine($"Out of {files.Length} decks there were");
-            Function.SortAndWrite();
-            Console.WriteLine();
+            string[] main = { 
+                "What would you like to do?", 
+                "0) Exit.", 
+                "1) Output the entire card database.", 
+                "2) Output the amount of all cards used in every deck in total.", 
+                "3) Output all cards with unrecognized IDs." 
+            };
 
-            Console.WriteLine("Unrecognized IDs:");
-            foreach (var id in list)
+            #region Main Menu
+            do
             {
-                Console.WriteLine(id);
-            }
-            //Function.WriteCount(1);
+                Console.WriteLine("The following files are up for comparison:");
+                for (int i = 0; i < files.Length; i++)
+                {
+                    Console.WriteLine(files[i]);
+                }
+                Console.WriteLine();
+                for (int i = 0; i < main.Length; i++)
+                {
+                    Console.WriteLine(main[i]);
+                }
+                Console.WriteLine();
+                Console.WriteLine("(Just write the number of the option you want to pick.)");
+                Console.Write("Input: ");
 
-            Console.SetCursorPosition(0, 0);
+                string input = Console.ReadLine();
+                while ((!int.TryParse(input, out select)) && (select > main.Length - 1)) // Not working properly with letters. Check Option 2 and 3 as well.
+                {
+                    InvalidInput();
+                }
+                Console.WriteLine();
+
+                switch (select)
+                {
+                    case 1:
+                        Console.WriteLine("Card ID  - Card Name");
+                        database.Write();
+                        Console.WriteLine();
+                        Console.WriteLine("Process complete. Press any key to return to menu.");
+                        Console.ReadKey();
+                        Console.Clear();
+                        break;
+                    case 2:
+                        Page.Option2();
+                        break;
+                    case 3:
+                        Console.WriteLine("Unrecognized IDs:");
+                        foreach (var id in list)
+                        {
+                            Console.WriteLine(id);
+                        }
+                        break;
+                    default:
+                        Console.WriteLine("Goodbye. Press any key to exit.");
+                        break;
+                }
+            } while (select != 0);
+            #endregion
+
             Console.ReadKey();
+        }
+
+        public static void InvalidInput()
+        {
+            Console.SetCursorPosition(0, Console.CursorTop - 2);
+            Console.Write(new string(' ', Console.BufferWidth));
+            Console.WriteLine($"(Invalid input. Try again.)");
+        }
+    }
+
+    public class Page
+    {
+        public static void Option2()
+        {
+            Console.WriteLine("Do you want the list sorted by descending amount of cards? (Y/N)");
+            Console.Write("Input: ");
+
+            string input = Console.ReadLine();
+            char select;
+            while (!char.TryParse(input, out select) && ((char.ToUpper(select) != 'Y') || (char.ToUpper(select) != 'N')))
+            {
+                Program.InvalidInput();
+            }
+
+            Console.WriteLine($"Out of {Program.files.Length} decks there were");
+            Console.WriteLine();
+            Console.WriteLine("Amount - Name - Ratio per deck");
+
+            switch (char.ToLower(select))
+            {
+                case 'y':
+                    Function.SortAndWrite();
+                    break;
+                case 'n':
+                    Function.WriteCount(0);
+                    break;
+                default:
+                    break;
+            }
         }
     }
 
