@@ -1,0 +1,7 @@
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\bin\Debug\YGOPRODeck Reader.exe.config
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\bin\Debug\YGOPRODeck Reader.exe
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\bin\Debug\YGOPRODeck Reader.pdb
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\obj\Debug\YGOPRODeck Reader.csprojAssemblyReference.cache
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\obj\Debug\YGOPRODeck Reader.csproj.CoreCompileInputs.cache
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\obj\Debug\YGOPRODeck Reader.exe
+C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\obj\Debug\YGOPRODeck Reader.pdb
