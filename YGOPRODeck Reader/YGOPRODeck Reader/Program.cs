@@ -42,7 +42,7 @@ namespace YGOPRODeck_Reader
                 "0) Exit.", 
                 "1) Output the entire card database.", 
                 "2) Output the amount of all cards used in every deck in total.", 
-                "3) Output all cards with unrecognized IDs." 
+                "3) Output all cards in every deck with unrecognized IDs." 
             };
 
             #region Main Menu
@@ -63,9 +63,18 @@ namespace YGOPRODeck_Reader
                 Console.Write("Input: ");
 
                 string input = Console.ReadLine();
-                while ((!int.TryParse(input, out select)) && (select < main.Length - 1)) // Not working properly with letters. Check Option 2 and 3 as well.
+                if (!int.TryParse(input, out select)) // Not working properly with letters. Check Option 2 and 3 as well.
                 {
-                    InvalidInput();
+                    do
+                    {
+                        InvalidInput();
+                        input = Console.ReadLine();
+                    } while ((!int.TryParse(input, out select)) && (select < main.Length - 1));
+
+                    if (select < main.Length - 1)
+                    {
+
+                    }
                 }
                 Console.WriteLine();
 
@@ -82,9 +91,16 @@ namespace YGOPRODeck_Reader
                         break;
                     case 3:
                         Console.WriteLine("Unrecognized IDs:");
-                        foreach (var id in list)
+                        if (list.Count != 0)
                         {
-                            Console.WriteLine(id);
+                            foreach (var id in list)
+                            {
+                                Console.WriteLine(id);
+                            }
+                        }
+                        else
+                        {
+                            Console.WriteLine("All IDs recognized!");
                         }
                         ProcessComplete();
                         break;
@@ -110,7 +126,11 @@ namespace YGOPRODeck_Reader
         {
             Console.SetCursorPosition(0, Console.CursorTop - 2);
             Console.Write(new string(' ', Console.BufferWidth));
+            Console.SetCursorPosition(0, Console.CursorTop - 1);
             Console.WriteLine($"(Invalid input. Try again.)");
+            Console.Write(new string(' ', Console.BufferWidth));
+            Console.SetCursorPosition(0, Console.CursorTop - 1);
+            Console.Write("Input: ");
         }
     }
 

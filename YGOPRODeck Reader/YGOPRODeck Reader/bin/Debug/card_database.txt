@@ -1,11 +1,15 @@
 # A
 Accesscode Talker                             | 86066372
+Anti-Spell Fragrance                          | 58921041
 Apollousa, Bow of the Goddess                 | 4280258
+Artifact Dagda                                | 7480763
 Artifact Sanctum                              | 12444060
 Artifact Scythe                               | 20292186
 Ash Blossom & Joyous Spring                   | 14558127, 14558128
 
 # B
+Baronne De Fleur                              | 84815190
+Basal Rose Shoot                              | 69167267
 Black Luster Soldier - Envoy of the Beginning | 72989439
 Blazing Mirror Force                          | 75249652
 Book of Moon                                  | 14087893
@@ -21,42 +25,53 @@ Card Destruction                              | 72892473
 Chain Strike                                  | 91623717
 Chain Summoning                               | 9952083
 Change of Heart                               | 4031928
+Chaos Dragon, the Chaotic Magical Dragon      | 3040496
+Conquistador of the Golden Land               | 20590515
 Constellar Pleiades                           | 73964868
 Cosmic Blazar Dragon                          | 21123811
 Crackdown                                     | 36975314
 Crystron Halqifibrax                          | 50588353
 Cup of Ace                                    | 37812118
+Cursed Eldland                                | 31434645
 
 # D
 Daigusto Emeral                               | 581014
 Dark Bribe                                    | 77538567
 Dark Hole                                     | 53129443
 Dark Room of Nightmare                        | 85562745
+Dark Ruler No More                            | 54693926
 Dark World Dealings                           | 74117290
 Destiny HERO - Celestial                      | 63362460
 Destiny HERO - Dasher                         | 81866673
 Destiny HERO - Destroyer Phoenix Enforcer     | 60461804
+Dharc the Dark Charmer, Gloomy                | 8264361
 Dimensional Barrier                           | 83326048
 Dinowrestler Pankratops                       | 82385847
 Diplexer Chimera                              | 78084378
 Disturbance Strategy                          | 77561728
 Dogmatika Ecclesia, the Virtuous              | 60303688
 Dogmatika Punishment                          | 82956214
+Dracoback, the Rideable Dragon                | 38745520
 Droll & Lock Bird                             | 94145021, 94145022
 
 # E
 Effect Veiler                                 | 97268402
 Elder Entity N'tss                            | 80532587
+Eldlich the Golden Lord                       | 95440947
+Eldlixir of Scarlet Sanguine                  | 20612097
 El Shaddoll Alpkallone                        | 50907446
 El Shaddoll Construct	                      | 20366274
 El Shaddoll Fusion                            | 06417578
 El Shaddoll Shekhinaga                        | 74822425
 El Shaddoll Wendigo                           | 74009824
 El Shaddoll Winda                             | 94977269
+Emergency Teleport                            | 67723438
 Evenly Matched                                | 15693423
 
 # F
-Foolish Burial                                | 81439173
+Fairy Tail - Snow                             | 55623480
+Fateful Adventure                             | 39568067
+Foolish Burial                                | 81439173, 81439174
 Forbidden Droplet                             | 24299458
 Fusion Destiny                                | 52947044
 
@@ -71,13 +86,19 @@ Gravedigger's Trap Hole                       | 31548215
 # H
 Hand Destruction                              | 74519184
 Harpies' Feather Duster                       | 18144506, 18144507
+Herald of the Arc Light                       | 79606837
 Honest                                        | 37742478
+Hot Red Dragon Archfiend Abyss                | 9753964
 
 # I
+Illusion of Chaos                             | 12266229
 Infinite Impermanence                         | 10045474
 Inspector Boarder                             | 15397015
 Instant Fusion                                | 1845204
 I:P Masquerena                                | 65741786
+
+# J
+Jet Synchron                                  | 9742784
 
 # K
 Knightmare Cerberus                           | 75452921
@@ -95,6 +116,7 @@ Lyna the Light Charmer, Lustrous              | 9839945
 
 # M
 Magic Cylinder                                | 62279055
+Magicians' Souls                              | 97631303
 Mathematician                                 | 41386308
 Maxx "C"                                      | 23434538
 Mekk-Knight Crusadia Avramax                  | 21887175
@@ -109,6 +131,9 @@ Naelshadoll Ariel                             | 97518132
 Negate Attack				                  | 14315573
 Nephe Shaddoll Fusion                         | 60226558
 Nibiru, the Primal Being                      | 27204311
+Noh-P.U.N.K. Deer Note                        | 6609736
+Noh-P.U.N.K. Foxy Tune                        | 55920742
+Noh-P.U.N.K. Ze Amin                          | 19535693
 
 # O
 Opera the Melodious Diva                      | 43268675
@@ -123,15 +148,21 @@ Pot of Prosperity                             | 84211599
 Predaplant Chimerafflesia                     | 25586143
 Predaplant Dragostapelia                      | 69946549
 Present Card                                  | 56119752
+Psychic End Punisher                          | 60465049
 PSY-Frame Driver                              | 49036338
 PSY-Framegear Gamma                           | 38814750
 
 # R
 Raigeki                                       | 12580477
 Recall                                        | 96404912
+Red Reboot                                    | 23002292
+Red Rose Dragon                               | 26118970
 Reeshaddoll Wendi                             | 51023024
+Relinquished Anima                            | 94259633
 Resh Shaddoll Incarnation                     | 23912837
 Ring of Destruction                           | 83555667
+Rite of Aramesir                              | 3285551
+Roxrose Dragon                                | 93708824
 
 # S
 Scapegoat                                     | 73915051
@@ -148,6 +179,7 @@ Shaddoll Hound                                | 52551211
 Shaddoll Schism                               | 21011044
 Shaddoll Squamata                             | 30328508
 Shared Ride                                   | 1372887
+Shooting Riser Dragon                         | 68431965
 Small World                                   | 89558743
 Solemn Judgement                              | 41420027
 Solemn Strike                                 | 40605147
@@ -162,11 +194,14 @@ Swords of Revealing Light                     | 72302403
 # T
 Terraforming                                  | 73628505
 
+T.G. Wonder Magician                          | 98558751
+
 The Gift of Greed                             | 5915629
 Thousand-Eyes Restrict                        | 63519819
 
 Titaniklad the Ash Dragon                     | 41373230
 
+Token Collector                               | 43534808
 Topologic Bomber Dragon                       | 5821478
 Topologic Trisbaena                           | 72529749
 Topologic Zeroboros                           | 66403530
@@ -204,6 +239,10 @@ United We Stand                               | 56747793
 
 # V
 Virtual World Kyubi - Shenshen                | 92519087
+
+# W
+Wandering Gryphon Rider                       | 2563463
+Water Enchantress of the Temple               | 30680659
 
 # Y
 Yata-Garasu                                   | 3078576
