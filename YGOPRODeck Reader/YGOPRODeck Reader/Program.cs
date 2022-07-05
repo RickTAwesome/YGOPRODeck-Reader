@@ -33,7 +33,7 @@ namespace YGOPRODeck_Reader
 
         static void Main(string[] args)
         {
-            int select = 0;
+            int select;
             Database database = Database.Load("card_database.txt");
             LinkedList<int> list = Function.Count(files);
 
@@ -63,7 +63,7 @@ namespace YGOPRODeck_Reader
                 Console.Write("Input: ");
 
                 string input = Console.ReadLine();
-                while ((!int.TryParse(input, out select)) && (select > main.Length - 1)) // Not working properly with letters. Check Option 2 and 3 as well.
+                while ((!int.TryParse(input, out select)) && (select < main.Length - 1)) // Not working properly with letters. Check Option 2 and 3 as well.
                 {
                     InvalidInput();
                 }
@@ -74,13 +74,11 @@ namespace YGOPRODeck_Reader
                     case 1:
                         Console.WriteLine("Card ID  - Card Name");
                         database.Write();
-                        Console.WriteLine();
-                        Console.WriteLine("Process complete. Press any key to return to menu.");
-                        Console.ReadKey();
-                        Console.Clear();
+                        ProcessComplete();
                         break;
                     case 2:
                         Page.Option2();
+                        ProcessComplete();
                         break;
                     case 3:
                         Console.WriteLine("Unrecognized IDs:");
@@ -88,6 +86,7 @@ namespace YGOPRODeck_Reader
                         {
                             Console.WriteLine(id);
                         }
+                        ProcessComplete();
                         break;
                     default:
                         Console.WriteLine("Goodbye. Press any key to exit.");
@@ -97,6 +96,14 @@ namespace YGOPRODeck_Reader
             #endregion
 
             Console.ReadKey();
+        }
+
+        public static void ProcessComplete()
+        {
+            Console.WriteLine();
+            Console.WriteLine("Process complete. Press any key to return to menu.");
+            Console.ReadKey();
+            Console.Clear();
         }
 
         public static void InvalidInput()
@@ -120,8 +127,9 @@ namespace YGOPRODeck_Reader
             {
                 Program.InvalidInput();
             }
+            Console.WriteLine();
 
-            Console.WriteLine($"Out of {Program.files.Length} decks there were");
+            Console.WriteLine($"Out of {Program.files.Length} decks there were...");
             Console.WriteLine();
             Console.WriteLine("Amount - Name - Ratio per deck");
 
