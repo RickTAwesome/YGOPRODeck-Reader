@@ -15,21 +15,18 @@ namespace YGOPRODeck_Reader
 
     class Program
     {
-        public static string[] files = {
-                "291078.ydk",
-                "289821.ydk",
-                "282562.ydk",
-                "291169.ydk",
-                "285508.ydk",
-                "280499.ydk",
-                "280420.ydk",
-                "285018.ydk",
-                "281184.ydk",
-                "286001.ydk",
-                "292288.ydk",
-                "286357.ydk",
-                "291094.ydk" 
-        };
+        public static string[] files
+        {
+            get
+            {
+                DirectoryInfo directory = new DirectoryInfo(@""); // Replace the empty string with the directory path to the debug folder that contains all the .ydk files you want to compare.
+
+                FileInfo[] Files = directory.GetFiles("*.ydk");
+                string[] fileNames = Files.Select(f => f.Name).ToArray();
+
+                return fileNames;
+            }
+        }
 
         static void Main(string[] args)
         {
@@ -62,24 +59,28 @@ namespace YGOPRODeck_Reader
                 Console.WriteLine("(Just write the number of the option you want to pick.)");
                 Console.Write("Input: ");
 
-                string input = Console.ReadLine();
-                if (!int.TryParse(input, out select)) // Not working properly with letters. Check Option 2 and 3 as well.
+                #region Check
+                string input;
+                do
                 {
-                    do
+                    input = Console.ReadLine();
+                    if (int.TryParse(input, out select))
                     {
-                        InvalidInput();
-                        input = Console.ReadLine();
-                    } while ((!int.TryParse(input, out select)) && (select < main.Length - 1));
-
-                    if (select < main.Length - 1)
-                    {
-
+                        if (select < main.Length - 1)
+                        {
+                            break;
+                        }
                     }
-                }
+                    InvalidInput();
+                } while (int.TryParse(input, out select) || (select < main.Length - 1));
                 Console.WriteLine();
+                #endregion
 
                 switch (select)
                 {
+                    case 0:
+                        Console.WriteLine("Goodbye. Press any key to exit.");
+                        break;
                     case 1:
                         Console.WriteLine("Card ID  - Card Name");
                         database.Write();
@@ -105,7 +106,7 @@ namespace YGOPRODeck_Reader
                         ProcessComplete();
                         break;
                     default:
-                        Console.WriteLine("Goodbye. Press any key to exit.");
+                        Console.WriteLine("Error. Not sure what happened. Press any key to continue.");
                         break;
                 }
             } while (select != 0);
@@ -141,12 +142,20 @@ namespace YGOPRODeck_Reader
             Console.WriteLine("Do you want the list sorted by descending amount of cards? (Y/N)");
             Console.Write("Input: ");
 
-            string input = Console.ReadLine();
+            string input;
             char select;
-            while (!char.TryParse(input, out select) && ((char.ToUpper(select) != 'Y') || (char.ToUpper(select) != 'N')))
+            do
             {
+                input = Console.ReadLine();
+                if (char.TryParse(input, out select))
+                {
+                    if (!(char.ToUpper(select) != 'Y') || !(char.ToUpper(select) != 'N')) // Double negatives, because I hate how '==' looks like.
+                    {
+                        break;
+                    }
+                }
                 Program.InvalidInput();
-            }
+            } while (!(char.TryParse(input, out select) && (!(char.ToUpper(select) != 'Y') || !(char.ToUpper(select) != 'N')))); // Probably could've made this slightly more efficient, but I'm too tired to figure it out.
             Console.WriteLine();
 
             Console.WriteLine($"Out of {Program.files.Length} decks there were...");
