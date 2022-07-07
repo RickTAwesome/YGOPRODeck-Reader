@@ -10,8 +10,10 @@ Ash Blossom & Joyous Spring                   | 14558127, 14558128
 # B
 Baronne De Fleur                              | 84815190
 Basal Rose Shoot                              | 69167267
+Bickuribox                                    | 25655502
 Black Luster Soldier - Envoy of the Beginning | 72989439
 Blazing Mirror Force                          | 75249652
+Blue-Eyes Toon Dragon                         | 53183600
 Book of Moon                                  | 14087893
 Borrelcode Dragon                             | 67288539
 Borrelend Dragon                              | 98630720
@@ -22,10 +24,13 @@ Bye Bye Damage                                | 20735371
 # C
 Called by the Grave                           | 24224830
 Card Destruction                              | 72892473
+Card Guard                                    | 4694209
 Chain Strike                                  | 91623717
 Chain Summoning                               | 9952083
 Change of Heart                               | 4031928
 Chaos Dragon, the Chaotic Magical Dragon      | 3040496
+Comic Hand                                    | 33453260
+Comics Hero King Arthur                       | 77631175
 Conquistador of the Golden Land               | 20590515
 Constellar Pleiades                           | 73964868
 Cosmic Blazar Dragon                          | 21123811
@@ -33,11 +38,13 @@ Crackdown                                     | 36975314
 Crystron Halqifibrax                          | 50588353
 Cup of Ace                                    | 37812118
 Cursed Eldland                                | 31434645
+CXyz Comics Hero Legend Arthur                | 13030280
 
 # D
 Daigusto Emeral                               | 581014
 Dark Bribe                                    | 77538567
 Dark Hole                                     | 53129443
+Dark Rabbit                                   | 99261403
 Dark Room of Nightmare                        | 85562745
 Dark Ruler No More                            | 54693926
 Dark World Dealings                           | 74117290
@@ -71,6 +78,7 @@ Evenly Matched                                | 15693423
 # F
 Fairy Tail - Snow                             | 55623480
 Fateful Adventure                             | 39568067
+Field Barrier                                 | 7153114
 Foolish Burial                                | 81439173, 81439174
 Forbidden Droplet                             | 24299458
 Fusion Destiny                                | 52947044
@@ -80,6 +88,7 @@ Geomathmech Final Sigma                       | 42632209
 Ghost Belle & Haunted Mansion                 | 73642296
 Ghost Mourner & Moonlit Chill                 | 52038441, 52038442
 Ghost Ogre & Snow Rabbit                      | 59438930
+Goblindbergh                                  | 25259669
 Gozen Match                                   | 53334471
 Gravedigger's Trap Hole                       | 31548215
 
@@ -121,6 +130,7 @@ Mathematician                                 | 41386308
 Maxx "C"                                      | 23434538
 Mekk-Knight Crusadia Avramax                  | 21887175
 Metaverse                                     | 89208725
+Mimicat                                       | 88032456
 Mirror Force                                  | 44095762
 Monster Reborn                                | 83764718, 83764719
 Mudragon of the Swamp                         | 54757758
@@ -134,11 +144,14 @@ Nibiru, the Primal Being                      | 27204311
 Noh-P.U.N.K. Deer Note                        | 6609736
 Noh-P.U.N.K. Foxy Tune                        | 55920742
 Noh-P.U.N.K. Ze Amin                          | 19535693
+Number 11: Big Eye                            | 80117527
+Number 82: Heartlandraco                      | 31437713
 
 # O
 Opera the Melodious Diva                      | 43268675
 
 # P
+Parrot Dragon                                 | 62762898
 Performage Trick Clown                        | 67696066
 Pot of Avarice                                | 67169062
 Pot of Desires                                | 35261759
@@ -155,6 +168,7 @@ PSY-Framegear Gamma                           | 38814750
 # R
 Raigeki                                       | 12580477
 Recall                                        | 96404912
+Red-Eyes Toon Dragon                          | 31733941
 Red Reboot                                    | 23002292
 Red Rose Dragon                               | 26118970
 Reeshaddoll Wendi                             | 51023024
@@ -178,6 +192,7 @@ Shaddoll Hedgehog                             | 04939890
 Shaddoll Hound                                | 52551211
 Shaddoll Schism                               | 21011044
 Shaddoll Squamata                             | 30328508
+Shadow Toon                                   | 6958551
 Shared Ride                                   | 1372887
 Shooting Riser Dragon                         | 68431965
 Small World                                   | 89558743
@@ -201,7 +216,30 @@ Thousand-Eyes Restrict                        | 63519819
 
 Titaniklad the Ash Dragon                     | 41373230
 
+Toadally Awesome                              | 90809975
 Token Collector                               | 43534808
+Toon Ancient Gear Golem                       | 7171149
+Toon Barrel Dragon                            | 28112535
+Toon Black Luster Soldier                     | 28711704
+Toon Bookmark                                 | 91500017
+Toon Briefcase                                | 5832914
+Toon Buster Blader                            | 61190918
+Toon Cannon Soldier                           | 79875176
+Toon Cyber Dragon                             | 83629030
+Toon Dark Magician                            | 21296502
+Toon Dark Magician Girl                       | 90960358
+Toon Gemini Elf                               | 42386471
+Toon Goblin Attack Force                      | 15270885
+Toon Harpie Lady                              | 64116319
+Toon Kingdom                                  | 43175858
+Toon Mask                                     | 79447365
+Toon Masked Sorcerer                          | 16392422
+Toon Mermaid                                  | 65458948
+Toon Page-Flip                                | 27699122
+Toon Rollback                                 | 70560957
+Toon Summoned Skull                           | 91842653
+Toon Table of Contents                        | 89997728
+Toon Terror                                   | 53094821
 Topologic Bomber Dragon                       | 5821478
 Topologic Trisbaena                           | 72529749
 Topologic Zeroboros                           | 66403530
