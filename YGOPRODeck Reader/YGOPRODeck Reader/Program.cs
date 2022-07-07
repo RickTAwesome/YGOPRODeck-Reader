@@ -19,7 +19,7 @@ namespace YGOPRODeck_Reader
         {
             get
             {
-                DirectoryInfo directory = new DirectoryInfo(@""); // Replace the empty string with the directory path to the debug folder that contains all the .ydk files you want to compare.
+                DirectoryInfo directory = new DirectoryInfo(@"C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\bin\Debug"); // Replace the empty string with the directory path to the debug folder that contains all the .ydk files you want to compare.
 
                 FileInfo[] Files = directory.GetFiles("*.ydk");
                 string[] fileNames = Files.Select(f => f.Name).ToArray();
@@ -37,9 +37,10 @@ namespace YGOPRODeck_Reader
             string[] main = { 
                 "What would you like to do?", 
                 "0) Exit.", 
-                "1) Output the entire card database.", 
-                "2) Output the amount of all cards used in every deck in total.", 
-                "3) Output all cards in every deck with unrecognized IDs." 
+                "1) View decks.", 
+                "2) Output the entire card database.", 
+                "3) Output the amount of all cards used in every deck in total.", 
+                "4) Output all cards in every deck with unrecognized IDs." 
             };
 
             #region Main Menu
@@ -82,15 +83,19 @@ namespace YGOPRODeck_Reader
                         Console.WriteLine("Goodbye. Press any key to exit.");
                         break;
                     case 1:
+                        Page.Option1();
+                        ProcessComplete();
+                        break;
+                    case 2:
                         Console.WriteLine("Card ID  - Card Name");
                         database.Write();
                         ProcessComplete();
                         break;
-                    case 2:
-                        Page.Option2();
+                    case 3:
+                        Page.Option3();
                         ProcessComplete();
                         break;
-                    case 3:
+                    case 4:
                         Console.WriteLine("Unrecognized IDs:");
                         if (list.Count != 0)
                         {
@@ -137,7 +142,79 @@ namespace YGOPRODeck_Reader
 
     public class Page
     {
-        public static void Option2()
+        private struct ViewCard
+        {
+            public static int id;
+            public static int count;
+
+            public ViewCard(int id, int count)
+            {
+                ViewCard.id = id;
+                ViewCard.count = count;
+            }
+        }
+
+        public static void Option1() // Confusing as hell and definitely seems possible to optimize.
+        {
+            Console.Clear();
+            Console.WriteLine("Choose which deck you want to view:");
+            for (int i = 0; i < Program.files.Length; i++)
+            {
+                Console.WriteLine($"{i}) {Program.files[i]}");
+            }
+            Console.WriteLine();
+            Console.Write("Input: ");
+
+            #region Check
+            string input;
+            int select;
+            do
+            {
+                input = Console.ReadLine();
+                if (int.TryParse(input, out select))
+                {
+                    if (select < Program.files.Length - 1)
+                    {
+                        break;
+                    }
+                }
+                Program.InvalidInput();
+            } while (int.TryParse(input, out select) || (select < Program.files.Length - 1));
+            Console.WriteLine();
+            #endregion
+
+            List<ViewCard> list = new List<ViewCard>();
+            using (StreamReader reader = new StreamReader(Program.files[select]))
+            {
+                while (!reader.EndOfStream)
+                {
+                    string id = reader.ReadLine();
+                    if (id.Length > 0)
+                    {
+                        if (id[0] != '#' && id[0] != '!')
+                        {
+                            if (list.Any(ViewCard => ViewCard.id == int.Parse(id)))
+                            {
+                                ViewCard.count++;
+                            }
+                            else
+                            {
+                                ViewCard viewCard = new ViewCard(int.Parse(id), 1);
+                                list.Add(viewCard); // Can't be 'viewCard' since adding it to the list doesn't just store the information, but just item itself, which changes every few loops.
+                            }
+                        }
+                    }
+                }
+            }
+
+            Console.WriteLine($"Deck {select} ({Program.files[select]}) contains the following cards:");
+            foreach (var item in list)
+            {
+                Console.WriteLine($"{ViewCard.count}x - {ViewCard.id}");
+            }
+        }
+
+        public static void Option3()
         {
             Console.WriteLine("Do you want the list sorted by descending amount of cards? (Y/N)");
             Console.Write("Input: ");
