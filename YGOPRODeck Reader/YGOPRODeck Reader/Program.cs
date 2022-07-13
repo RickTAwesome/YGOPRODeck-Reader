@@ -84,7 +84,6 @@ namespace YGOPRODeck_Reader
                         break;
                     case 1:
                         Page.Option1();
-                        ProcessComplete();
                         break;
                     case 2:
                         Console.WriteLine("Card ID  - Card Name");
@@ -158,7 +157,8 @@ namespace YGOPRODeck_Reader
         {
             Console.Clear();
             Console.WriteLine("Choose which deck you want to view:");
-            for (int i = 0; i < Program.files.Length; i++)
+            Console.WriteLine("0) Back to Main Menu");
+            for (int i = 1; i < Program.files.Length; i++)
             {
                 Console.WriteLine($"{i}) {Program.files[i]}");
             }
@@ -182,6 +182,12 @@ namespace YGOPRODeck_Reader
             } while (int.TryParse(input, out select) || (select < Program.files.Length - 1));
             Console.WriteLine();
             #endregion
+
+            if (select == 0)
+            {
+                Console.Clear();
+                return;
+            }
 
             List<ViewCard> list = new List<ViewCard>();
             using (StreamReader reader = new StreamReader(Program.files[select]))
@@ -212,6 +218,8 @@ namespace YGOPRODeck_Reader
             {
                 Console.WriteLine($"{ViewCard.count}x - {ViewCard.id}");
             }
+
+            Program.ProcessComplete();
         }
 
         public static void Option3()

@@ -1,286 +1,665 @@
-# A
-Accesscode Talker                             | 86066372
-Anti-Spell Fragrance                          | 58921041
-Apollousa, Bow of the Goddess                 | 4280258
-Artifact Dagda                                | 7480763
-Artifact Sanctum                              | 12444060
-Artifact Scythe                               | 20292186
-Ash Blossom & Joyous Spring                   | 14558127, 14558128
+# Main Deck
+## 7
+7 Colored Fish                                  | 23771716
 
-# B
-Baronne De Fleur                              | 84815190
-Basal Rose Shoot                              | 69167267
-Bickuribox                                    | 25655502
-Black Luster Soldier - Envoy of the Beginning | 72989439
-Blazing Mirror Force                          | 75249652
-Blue-Eyes Toon Dragon                         | 53183600
-Book of Moon                                  | 14087893
-Borrelcode Dragon                             | 67288539
-Borrelend Dragon                              | 98630720
-Borrelsword Dragon                            | 85289965, 85289966
-Burden of the Mighty                          | 44947065
-Bye Bye Damage                                | 20735371
+## A
+Abyss Actor - Curtain Raiser                    | 44179224
+Allure of Darkness                              | 01475311
+Anti-Spell Fragrance                            | 58921041
+Armageddon Knight                               | 28985331
+Artifact Lancea                                 | 34267821
+Artifact Sanctum                                | 12444060
+Artifact Scythe                                 | 20292186
+Ash Blossom & Joyous Spring                     | 14558127, 14558128
 
-# C
-Called by the Grave                           | 24224830
-Card Destruction                              | 72892473
-Card Guard                                    | 4694209
-Chain Strike                                  | 91623717
-Chain Summoning                               | 9952083
-Change of Heart                               | 4031928
-Chaos Dragon, the Chaotic Magical Dragon      | 3040496
-Comic Hand                                    | 33453260
-Comics Hero King Arthur                       | 77631175
-Conquistador of the Golden Land               | 20590515
-Constellar Pleiades                           | 73964868
-Cosmic Blazar Dragon                          | 21123811
-Crackdown                                     | 36975314
-Crystron Halqifibrax                          | 50588353
-Cup of Ace                                    | 37812118
-Cursed Eldland                                | 31434645
-CXyz Comics Hero Legend Arthur                | 13030280
+## B
+Barrier Statue of the Abyss                     | 84478195
+Basal Rose Shoot                                | 69167267
+Black Illusion Ritual                           | 41426869
+Black Luster Soldier - Envoy of the Beginning   | 72989439
+Black Pendant                                   | 65169794
+Blackwing - Zephyros the Elite                  | 14785765
+Blazing Mirror Force                            | 75249652
+Blue-Eyes Toon Dragon                           | 53183600
+Blue-Eyes White Dragon                          | 89631139
+Blue-Winged Crown                               | 41396436
+Book of Moon                                    | 14087893
+Boot Sector Launch                              | 36668118
+Burden of the Mighty                            | 44947065
+Bye Bye Damage                                  | 20735371
 
-# D
-Daigusto Emeral                               | 581014
-Dark Bribe                                    | 77538567
-Dark Hole                                     | 53129443
-Dark Rabbit                                   | 99261403
-Dark Room of Nightmare                        | 85562745
-Dark Ruler No More                            | 54693926
-Dark World Dealings                           | 74117290
-Destiny HERO - Celestial                      | 63362460
-Destiny HERO - Dasher                         | 81866673
-Destiny HERO - Destroyer Phoenix Enforcer     | 60461804
-Dharc the Dark Charmer, Gloomy                | 8264361
-Dimensional Barrier                           | 83326048
-Dinowrestler Pankratops                       | 82385847
-Diplexer Chimera                              | 78084378
-Disturbance Strategy                          | 77561728
-Dogmatika Ecclesia, the Virtuous              | 60303688
-Dogmatika Punishment                          | 82956214
-Dracoback, the Rideable Dragon                | 38745520
-Droll & Lock Bird                             | 94145021, 94145022
+## C
+Caligo Claw Crow                                | 67692580
+Called by the Grave                             | 24224830
+Card Destruction                                | 72892473
+Card Guard                                      | 4694209
+Cattle Call                                     | 50619462
+Chain Strike                                    | 91623717
+Chain Summoning                                 | 9952083
+Change of Heart                                 | 4031928
+Chaos Dragon Levianeer                          | 55878038
+Cocoon of Evolution                             | 40240595
+Comic Hand                                      | 33453260
+Conquistador of the Golden Land                 | 20590515
+Cosmic Cyclone                                  | 8267140
+Copycat                                         | 26376390
+Crackdown                                       | 36975314
+Crass Clown                                     | 93889755
+Crossout Designator                             | 65681983
+Crush Card Virus                                | 57728570
+Cup of Ace                                      | 37812118
+Cursed Eldland                                  | 31434645
+Cyber Jar                                       | 34124316
 
-# E
-Effect Veiler                                 | 97268402
-Elder Entity N'tss                            | 80532587
-Eldlich the Golden Lord                       | 95440947
-Eldlixir of Scarlet Sanguine                  | 20612097
-El Shaddoll Alpkallone                        | 50907446
-El Shaddoll Construct	                      | 20366274
-El Shaddoll Fusion                            | 06417578
-El Shaddoll Shekhinaga                        | 74822425
-El Shaddoll Wendigo                           | 74009824
-El Shaddoll Winda                             | 94977269
-Emergency Teleport                            | 67723438
-Evenly Matched                                | 15693423
+## D
+Damage Vaccine Omega MAX                        | 98535702
+Dandylion                                       | 15341821
+Danger! Thunderbird!                            | 90807199
+Dark Bribe                                      | 77538567
+Dark-Eyes Illusionist                           | 38247752
+Dark Hole                                       | 53129443
+Dark Magician                                   | 46986414
+Dark Rabbit                                     | 99261403
+Dark Room of Nightmare                          | 85562745
+Dark Ruler No More                              | 54693926
+Dark Simorgh                                    | 11366199
+Dark World Dealings                             | 74117290
 
-# F
-Fairy Tail - Snow                             | 55623480
-Fateful Adventure                             | 39568067
-Field Barrier                                 | 7153114
-Foolish Burial                                | 81439173, 81439174
-Forbidden Droplet                             | 24299458
-Fusion Destiny                                | 52947044
+D.D. Crow                                       | 24508238
 
-# G
-Geomathmech Final Sigma                       | 42632209
-Ghost Belle & Haunted Mansion                 | 73642296
-Ghost Mourner & Moonlit Chill                 | 52038441, 52038442
-Ghost Ogre & Snow Rabbit                      | 59438930
-Goblindbergh                                  | 25259669
-Gozen Match                                   | 53334471
-Gravedigger's Trap Hole                       | 31548215
+Destiny HERO - Celestial                        | 63362460
+Destiny HERO - Dasher                           | 81866673
 
-# H
-Hand Destruction                              | 74519184
-Harpies' Feather Duster                       | 18144506, 18144507
-Herald of the Arc Light                       | 79606837
-Honest                                        | 37742478
-Hot Red Dragon Archfiend Abyss                | 9753964
+Dian Keto the Cure Master                       | 84257640
+Dimensional Barrier                             | 83326048
+Dinowrestler Pankratops                         | 82385847
+Disturbance Strategy                            | 77561728
 
-# I
-Illusion of Chaos                             | 12266229
-Infinite Impermanence                         | 10045474
-Inspector Boarder                             | 15397015
-Instant Fusion                                | 1845204
-I:P Masquerena                                | 65741786
+Dogmatika Ecclesia, the Virtuous                | 60303688
+Dogmatika Punishment                            | 82956214
+Double or Nothing!                              | 94770493
+Double Summon                                   | 43422537
 
-# J
-Jet Synchron                                  | 9742784
+Dracoback, the Rideable Dragon                  | 38745520
+Dragged Down into the Grave                     | 16435215
+Dragon Capture Jar                              | 50045299
+Dragon Piper                                    | 55763552
+Dream Clown                                     | 13215230
+Droll & Lock Bird                               | 94145021, 94145022
 
-# K
-Knightmare Cerberus                           | 75452921
-Knightmare Phoenix                            | 2857636
-Knightmare Unicorn                            | 38342335, 38342336
-Kuriboh                                       | 40640057
+## E
+Eater of Millions                               | 63845230
+Effect Veiler                                   | 97268402
+Elborz, the Sacred Lands of Simorgh             | 92223430
+Eldlich the Golden Lord                         | 95440947
+Eldlixir of Scarlet Sanguine                    | 20612097
+El Shaddoll Fusion                              | 06417578
+Emergency Teleport                              | 67723438
+Enchanted Javelin                               | 96355986
+Enemy Controller                                | 98045062
+Evenly Matched                                  | 15693423
+Exchange                                        | 5556668
+Exodia, the Forbidden One                       | 33396948
 
-# L
-Lightning Storm                               | 14532163
-Lilith, Lady of Lament                        | 23898021
-Link Spider                                   | 98978921
-Linkuriboh                                    | 41999284
-Lord of the Heavenly Prison                   | 9822220
-Lyna the Light Charmer, Lustrous              | 9839945
+## F
+Fairy Tail - Snow                               | 55623480
+Fateful Adventure                               | 39568067
+Field Barrier                                   | 7153114
+Fiendish Chain                                  | 50078509
+Fire Kraken                                     | 46534755
+Flame Cerberus                                  | 60862676
+Floowandereeze and the Unexplored Winds         | 101106059
+Foolish Burial                                  | 81439173, 81439174
+Forbidden Chalice                               | 25789292
+Forbidden Droplet                               | 24299458
+Fusion Destiny                                  | 52947044
 
-# M
-Magic Cylinder                                | 62279055
-Magicians' Souls                              | 97631303
-Mathematician                                 | 41386308
-Maxx "C"                                      | 23434538
-Mekk-Knight Crusadia Avramax                  | 21887175
-Metaverse                                     | 89208725
-Mimicat                                       | 88032456
-Mirror Force                                  | 44095762
-Monster Reborn                                | 83764718, 83764719
-Mudragon of the Swamp                         | 54757758
-Mystic Mine                                   | 76375976
+## G
+Gadarla, the Mystery Dust Kaiju                 | 36956512
+Gameciel, the Sea Turtle Kaiju                  | 55063751
+Gate Guardian                                   | 25833572
+Ghost Belle & Haunted Mansion                   | 73642296
+Ghost Mourner & Moonlit Chill                   | 52038441, 52038442
+Ghost Ogre & Snow Rabbit                        | 59438930
+Goblindbergh                                    | 25259669
+Goddess with the Third Eye                      | 53493204
+Gorgon's Eye                                    | 52648457
+Gozen Match                                     | 53334471
+Graceful Charity                                | 79571449
+Gravedigger's Trap Hole                         | 31548215
+Gravekeeper's Servant                           | 16762927
+Graverobber                                     | 61705417
+Graydle Alligator                               | 66451379
+Graydle Cobra                                   | 93445074
+Graydle Eagle                                   | 29834183
+Guardian of the Throne Room                     | 47879985
+Guerilla Kite                                   | 54629413
 
-# N
-Naelshadoll Ariel                             | 97518132
-Negate Attack				                  | 14315573
-Nephe Shaddoll Fusion                         | 60226558
-Nibiru, the Primal Being                      | 27204311
-Noh-P.U.N.K. Deer Note                        | 6609736
-Noh-P.U.N.K. Foxy Tune                        | 55920742
-Noh-P.U.N.K. Ze Amin                          | 19535693
-Number 11: Big Eye                            | 80117527
-Number 82: Heartlandraco                      | 31437713
+## H
+Hand Destruction                                | 74519184
+Hane-Hane                                       | 7089711
+Harpies' Feather Duster                         | 18144506, 18144507
+Harpie's Feather Storm                          | 87639778
+Heavy Storm                                     | 19613556
+High Tide Gyojin                                | 54579801
+Honest                                          | 37742478
+Horn of the Unicorn                             | 64047146
 
-# O
-Opera the Melodious Diva                      | 43268675
+## I
+Illusionist Faceless Mage                       | 28546905
+Illusion of Chaos                               | 12266229
+Infinite Impermanence                           | 10045474
+Injection Fairy Lily                            | 79575620
+Inspector Boarder                               | 15397015
+Instant Fusion                                  | 1845204
 
-# P
-Parrot Dragon                                 | 62762898
-Performage Trick Clown                        | 67696066
-Pot of Avarice                                | 67169062
-Pot of Desires                                | 35261759
-Pot of Duality                                | 98645731
-Pot of Extravagance                           | 49238328
-Pot of Prosperity                             | 84211599
-Predaplant Chimerafflesia                     | 25586143
-Predaplant Dragostapelia                      | 69946549
-Present Card                                  | 56119752
-Psychic End Punisher                          | 60465049
-PSY-Frame Driver                              | 49036338
-PSY-Framegear Gamma                           | 38814750
+## J
+Jar of Avarice                                  | 98954106
+Jet Synchron                                    | 9742784
+Jigen Bakudan                                   | 90020065
 
-# R
-Raigeki                                       | 12580477
-Recall                                        | 96404912
-Red-Eyes Toon Dragon                          | 31733941
-Red Reboot                                    | 23002292
-Red Rose Dragon                               | 26118970
-Reeshaddoll Wendi                             | 51023024
-Relinquished Anima                            | 94259633
-Resh Shaddoll Incarnation                     | 23912837
-Ring of Destruction                           | 83555667
-Rite of Aramesir                              | 3285551
-Roxrose Dragon                                | 93708824
+## K
+Kagetokage                                      | 94656263
+Kaiser Colosseum                                | 35059553
+Kuriboh                                         | 40640057
 
-# S
-Scapegoat                                     | 73915051
-Secret Barrel                                 | 27053506
-Security Dragon                               | 99111753
-Selene, Queen of the Master Magicians         | 45819647
-Set Rotation                                  | 73468603
-Shaddoll Beast                                | 03717252
-Shaddoll Dragon                               | 77723643
-Shaddoll Falco                                | 37445295
-Shaddoll Fusion                               | 44394295
-Shaddoll Hedgehog                             | 04939890
-Shaddoll Hound                                | 52551211
-Shaddoll Schism                               | 21011044
-Shaddoll Squamata                             | 30328508
-Shadow Toon                                   | 6958551
-Shared Ride                                   | 1372887
-Shooting Riser Dragon                         | 68431965
-Small World                                   | 89558743
-Solemn Judgement                              | 41420027
-Solemn Strike                                 | 40605147
-Solemn Warning                                | 84749824
-Sphere Kuriboh                                | 33245030
-Starving Venom Fusion Dragon                  | 41209827
-Storming Mirror Force                         | 5650082
-Super Polymerization                          | 48130397
-Super Quantal Mech King Great Magnus          | 84025439
-Swords of Revealing Light                     | 72302403
+## L
+Labyrinth Wall                                  | 67284908
+Lava Golem                                      | 102380
+Lightning Storm                                 | 14532163
+Lilith, Lady of Lament                          | 23898021
+Lord of the Heavenly Prison                     | 9822220
 
-# T
-Terraforming                                  | 73628505
+## M
+Macro Cosmos                                    | 30241314
+Magical Stone Excavation                        | 98494543
+Magic Cylinder                                  | 62279055
+Magicians' Souls                                | 97631303
+Magic Jammer                                    | 77414722
+Malevolent Nuzzler                              | 99597615
+Manga Ryu-Ran                                   | 38369349
+Marshmallon                                     | 31305911
+Marshmallon Glasses                             | 66865880
+Mathematician                                   | 41386308
+Maxx "C"                                        | 23434538
+Messenger of Peace                              | 44656491
+Metaverse                                       | 89208725
+Millennium-Eyes Illusionist                     | 89785779
+Mimicat                                         | 88032456
+Mind Control                                    | 37520316
+Mirror Force                                    | 44095762
+Monster Reborn                                  | 83764718, 83764719
+Mystical Space Typhoon                          | 5318639
+Mystic Clown                                    | 47060154
+Mystic Mine                                     | 76375976
 
-T.G. Wonder Magician                          | 98558751
+## N
+Naelshadoll Ariel                               | 97518132
+Negate Attack				                    | 14315573
+Nephe Shaddoll Fusion                           | 60226558
+Nibiru, the Primal Being                        | 27204311
+Nimble Momonga                                  | 22567609
+Noh-P.U.N.K. Deer Note                          | 6609736
+Noh-P.U.N.K. Foxy Tune                          | 55920742
+Noh-P.U.N.K. Ze Amin                            | 19535693
 
-The Gift of Greed                             | 5915629
-Thousand-Eyes Restrict                        | 63519819
+## O
+Ominous Fortunetelling                          | 56995655
+One Day of Peace                                | 33782437
+One for One                                     | 2295440
+Opera the Melodious Diva                        | 43268675
+Oscillo Hero                                    | 82065276
 
-Titaniklad the Ash Dragon                     | 41373230
+## P
+Paralyzing Potion                               | 50152549
+Parrot Dragon                                   | 62762898
+Performage Trick Clown                          | 67696066
 
-Toadally Awesome                              | 90809975
-Token Collector                               | 43534808
-Toon Ancient Gear Golem                       | 7171149
-Toon Barrel Dragon                            | 28112535
-Toon Black Luster Soldier                     | 28711704
-Toon Bookmark                                 | 91500017
-Toon Briefcase                                | 5832914
-Toon Buster Blader                            | 61190918
-Toon Cannon Soldier                           | 79875176
-Toon Cyber Dragon                             | 83629030
-Toon Dark Magician                            | 21296502
-Toon Dark Magician Girl                       | 90960358
-Toon Gemini Elf                               | 42386471
-Toon Goblin Attack Force                      | 15270885
-Toon Harpie Lady                              | 64116319
-Toon Kingdom                                  | 43175858
-Toon Mask                                     | 79447365
-Toon Masked Sorcerer                          | 16392422
-Toon Mermaid                                  | 65458948
-Toon Page-Flip                                | 27699122
-Toon Rollback                                 | 70560957
-Toon Summoned Skull                           | 91842653
-Toon Table of Contents                        | 89997728
-Toon Terror                                   | 53094821
-Topologic Bomber Dragon                       | 5821478
-Topologic Trisbaena                           | 72529749
-Topologic Zeroboros                           | 66403530
+Phantom Knights' Fog Blade                      | 25542642
+Phantom Knights' Rank-Up-Magic Force            | 88504133
+Phantom Knights' Spear                          | 98153934
+Phantom Knights' Sword                          | 61936647
+Phantom Knights' Wing                           | 98431356
 
-Trap Trick                                    | 80101899
-Trickstar Band Sweet Guitar                   | 91272072
-Trickstar Bella Medonna                       | 41302052
-Trickstar Black Catbat                        | 94626871
-Trickstar Bloom                               | 77307161
-Trickstar Bouquet                             | 99890852
-Trickstar Candina                             | 61283655
-Trickstar Corobane                            | 98169343
-Trickstar Crimson Heart                       | 51011872
-Trickstar Delfiendium                         | 3792766
-Trickstar Divaridis                           | 14365823
-Trickstar Festival                            | 62481203
-Trickstar Foxglove Witch                      | 86750474
-Trickstar Fusion                              | 88693151
-Trickstar Holly Angel                         | 32448765, 32448766
-Trickstar Light Arena                         | 63492244
-Trickstar Light Stage                         | 35371948
-Trickstar Lilybell                            | 98700941
-Trickstar Live Stage                          | 51208046
-Trickstar Lycoris                             | 35199656
-Trickstar Magical Laurel                      | 22159429
-Trickstar Mandrake                            | 22219822
-Trickstar Narkissus                           | 91505214
-Trickstar Nightshade                          | 86825114
-Trickstar Reincarnation                       | 21076084
-Trickstar Rhodode                             | 59604521
+Polymerization                                  | 24094653
+Pot of Avarice                                  | 67169062
+Pot of Desires                                  | 35261759
+Pot of Duality                                  | 98645731
+Pot of Extravagance                             | 49238328
+Pot of Greed                                    | 55144522
+Pot of Prosperity                               | 84211599
 
-# U
-Underworld Goddess of the Closed World        | 98127546
-United We Stand                               | 56747793
+Present Card                                    | 56119752
 
-# V
-Virtual World Kyubi - Shenshen                | 92519087
+PSY-Frame Driver                                | 49036338
+PSY-Framegear Gamma                             | 38814750
 
-# W
-Wandering Gryphon Rider                       | 2563463
-Water Enchantress of the Temple               | 30680659
+Punch-in-the-Box                                | 31077447
 
-# Y
-Yata-Garasu                                   | 3078576
+## Q
+Quaking Mirror Force                            | 40838625
+Quick Launch                                    | 31443476
+
+## R
+Rabidragon                                      | 95788410
+Radian, the Multidimensional Kaiju              | 28674152
+Raider's Unbreakable Mind                       | 87091930
+Raider's Wing                                   | 52159691
+Raidraptor - Avenge Vulture                     | 10194329
+Raidraptor - Booster Strix                      | 73977033
+Raidraptor - Call                               | 50692511
+Raidraptor - Fuzzy Lanius                       | 5929801
+Raidraptor - Heel Eagle                         | 51933043
+Raidraptor - Last Strix                         | 97219708
+Raidraptor - Mimicry Lanius                     | 96345188
+Raidraptor - Napalm Dragonius                   | 60508057
+Raidraptor - Necro Vulture                      | 51814159
+Raidraptor - Nest                               | 08559793
+Raidraptor - Pain Lanius                        | 46589034
+Raidraptor's Phantom Knights Claw               | 13486638
+Raptor's Ultimate Mace                          | 87609391
+Raidraptor - Readiness                          | 21648584
+Raidraptor Replica                              | 54423935
+Raidraptor - Return                             | 30500113
+Raidraptor - Rudder Strix                       | 6552938
+Raidraptor - Sharp Lanius                       | 60950180
+Raidraptor - Singing Lanius                     | 31314549
+Raidraptor - Skull Eagle                        | 45184165
+Raidraptor - Strangle Lanius                    | 87321742
+Raidraptor - Tribute Lanius                     | 83236601
+Raidraptor - Vanishing Lanius                   | 53251824
+Raigeki                                         | 12580477
+Rank-Up-Magic Astral Force                      | 45950291
+Rank-Up-Magic Doom Double Force                 | 86196216
+Rank-Up-Magic Raid Force                        | 41201386
+Rank-Up-Magic Raptor's Force                    | 43383478
+Rank-Up-Magic Revolution Force                  | 43476205
+Rank-Up-Magic Skip Force                        | 58988903
+Rank-Up-Magic Soul Shave Force                  | 23581825
+Raptor's Gust                                   | 66994718
+
+Recall                                          | 96404912
+Red Archery Girl                                | 65570596
+Red-Eyes Black Dragon                           | 74677422
+Red-Eyes Fusion                                 | 6172122
+Red-Eyes Toon Dragon                            | 31733941
+Red Reboot                                      | 23002292
+Red Rose Dragon                                 | 26118970
+Reeshaddoll Wendi                               | 51023024
+Reinforcement of the Army                       | 32807846
+Relinquished                                    | 64631466
+Resh Shaddoll Incarnation                       | 23912837
+
+Right Arm of the Forbidden One                  | 70903634
+Ring of Destruction                             | 83555666, 83555667
+Rite of Aramesir                                | 3285551
+
+Robbin' Goblin                                  | 88279736
+Rogue Doll                                      | 91939608
+Rokket Caliber                                  | 67127799
+Rokket Recharger                                | 05969957
+Rokket Tracer                                   | 68464358
+Roxrose Dragon                                  | 93708824
+
+Ryu-Kishin Powered                              | 24611934
+Ryu-Ran                                         | 2964201
+
+## S
+Sangan                                          | 26202165
+Sanga of the Thunder                            | 25955164
+
+Scapegoat                                       | 73915051
+Scrap-Iron Scarecrow                            | 98427577
+
+Secret Barrel                                   | 27053506
+Secure Gardna                                   | 2220237
+Set Rotation                                    | 73468603
+
+Shaddoll Beast                                  | 03717252
+Shaddoll Dragon                                 | 77723643
+Shaddoll Falco                                  | 37445295
+Shaddoll Fusion                                 | 44394295
+Shaddoll Hedgehog                               | 04939890
+Shaddoll Hound                                  | 52551211
+Shaddoll Schism                                 | 21011044
+Shaddoll Squamata                               | 30328508
+Shadow Ghoul                                    | 30778711
+Shadow Toon                                     | 6958551
+Shared Ride                                     | 1372887
+Shine Palace                                    | 82878489
+
+Simorgh, Bird of Beginning                      | 50820852
+Simorgh, Bird of Bringing                       | 96214561
+Simorgh, Bird of Perfection                     | 52843699
+Simorgh, Lord of the Storm                      | 95192919
+Simorgh of Darkness                             | 22586618
+Simorgh Onslaught                               | 28617139
+Simorgh Repulsion                               | 64002884
+
+Skull Dice                                      | 126218
+Skull Meister                                   | 67750322
+Skull Red Bird                                  | 10202894
+
+Small World                                     | 89558743
+
+Solemn Judgement                                | 41420027
+Solemn Strike                                   | 40605147
+Solemn Warning                                  | 84749824
+Sonic Bird                                      | 57617178
+Soul Exchange                                   | 68005187
+
+Spellbinding Circle                             | 18807108
+Sphere Kuriboh                                  | 33245030
+
+Stim-Pack                                       | 83225447
+Stop Defense                                    | 63102017
+Storming Mirror Force                           | 5650082
+
+Summoner Monk                                   | 423585
+Summon Limit                                    | 23516703
+Super Polymerization                            | 48130397
+
+Swallow's Nest                                  | 94145683
+Swords of Revealing Light                       | 72302403
+
+## T
+Tenyi Spirit - Nahata                           | 97036149
+Terraforming                                    | 73628505
+
+The Black Stone of Legend                       | 66574418
+The Eye of Truth                                | 34694160
+The Fang of Critas                              | 11082056
+The Gift of Greed                               | 5915629
+The Phantom Knights of Ancient Cloak            | 90432163
+The Phantom Knights of Cloven Helm              | 99315585
+The Phantom Knights of Fragile Armor            | 36704180
+The Phantom Knights of Mist Claws               | 9336190
+The Phantom Knights of Ragged Gloves            | 63821877
+The Phantom Knights of Shade Brigandine         | 98827725
+The Phantom Knights of Silent Boots             | 36426778
+The Phantom Knights of Stained Greaves          | 88544390
+The Phantom Knights of Tomb Shield              | 51606429
+The Phantom Knights of Torn Scales              | 25538345
+The Phantom Knights' Rank-Up-Magic Launch       | 3298689
+There Can Be Only One                           | 24207889
+Thousand-Eyes Idol                              | 27125110
+Threatening Roar                                | 36361633
+Thunder of Ruler                                | 91781589
+
+Time Wizard                                     | 71625222
+
+Token Collector                                 | 43534808
+Toon Alligator                                  | 59383041
+Toon Ancient Gear Golem                         | 7171149
+Toon Barrel Dragon                              | 28112535
+Toon Black Luster Soldier                       | 28711704, 100268001
+Toon Bookmark                                   | 91500017, 100268003
+Toon Briefcase                                  | 5832914
+Toon Buster Blader                              | 61190918
+Toon Cannon Soldier                             | 79875176
+Toon Cyber Dragon                               | 83629030
+Toon Dark Magician                              | 21296502
+Toon Dark Magician Girl                         | 90960358
+Toon Defense                                    | 43509019
+Toon Gemini Elf                                 | 42386471
+Toon Goblin Attack Force                        | 15270885
+Toon Harpie Lady                                | 64116319, 100268002
+Toon Kingdom                                    | 43175858
+Toon Mask                                       | 79447365
+Toon Masked Sorcerer                            | 16392422
+Toon Mermaid                                    | 65458948
+Toon Page-Flip                                  | 27699122, 100268004
+Toon Rollback                                   | 70560957
+Toon Summoned Skull                             | 91842653
+Toon Table of Contents                          | 89997728
+Toon Terror                                     | 53094821, 100268005
+Toon World                                      | 15259703, 15259704
+Torrential Tribute                              | 53582587
+
+Trap Hole                                       | 4206964
+Trap Trick                                      | 80101899
+Trickstar Bouquet                               | 99890852
+Trickstar Candina                               | 61283655
+Trickstar Corobane                              | 98169343
+Trickstar Festival                              | 62481203
+Trickstar Fusion                                | 88693151
+Trickstar Light Arena                           | 63492244
+Trickstar Light Stage                           | 35371948
+Trickstar Lilybell                              | 98700941
+Trickstar Live Stage                            | 51208046
+Trickstar Lycoris                               | 35199656
+Trickstar Magical Laurel                        | 22159429
+Trickstar Mandrake                              | 22219822
+Trickstar Narkissus                             | 91505214
+Trickstar Nightshade                            | 86825114
+Trickstar Reincarnation                         | 21076084
+Trickstar Rhodode                               | 59604521
+
+Twin Twisters                                   | 43898403
+
+## U
+United We Stand                                 | 56747793
+Upstart Goblin                                  | 70368879
+
+## V
+Vengeful Bog Spirit                             | 95220856
+Void Trap Hole                                  | 1005587
+
+## W
+Waboku                                          | 12607053
+Wandering Gryphon Rider                         | 2563463
+Water Enchantress of the Temple                 | 30680659
+Wing Requital                                   | 8843569, 100278016
+Witch of the Black Forest                       | 78010363
+Witch's Strike                                  | 36458063
+Whiptail Crow                                   | 91996584
+
+## Y
+Yata-Garasu                                     | 3078576
+
+## Z
+Zexal Construction                              | 62623659
+
+# Extra Deck
+## A
+Abyss Dweller                                   | 21044178
+Accesscode Talker                               | 86066372
+Apollousa, Bow of the Goddess                   | 4280258, 4280259
+Arc Rebellion Xyz Dragon                        | 64276752
+Artifact Dagda                                  | 7480763
+
+## B
+Bahamut Shark                                   | 440556
+Baronne De Fleur                                | 84815190
+Bickuribox                                      | 25655502
+Black Skull Dragon                              | 11901678
+Borrelcode Dragon                               | 67288539
+Borrelend Dragon                                | 98630720
+Borreload Dragon                                | 31833038
+Borreload Savage Dragon                         | 27548199
+Borrelsword Dragon                              | 85289965, 85289966
+
+## C
+Castel, the Skyblaster Musketeer                | 82633039
+Chaos Ruler, the Chaotic Magical Dragon         | 3040496
+Charubin the Fire Knight                        | 37421579
+Chimeratech Megafleet Dragon                    | 87116928
+Comics Hero King Arthur                         | 77631175
+Constellar Pleiades                             | 73964868
+Cosmic Blazar Dragon                            | 21123811
+Crystron Halqifibrax                            | 50588353
+CXyz Comics Hero Legend Arthur                  | 13030280
+Cyber Dragon Infinity                           | 10443957
+Cyber Dragon Nova                               | 58069384
+Cyber Twin Dragon                               | 74157028
+
+## D
+Daigusto Emeral                                 | 581014
+Darkfire Dragon                                 | 17881964
+Dark Rebellion Xyz Dragon                       | 16195942, 16195943
+Dark Requiem Xyz Dragon                         | 1621413
+D/D/D Duo-Dawn King Kali Yuga                   | 15939229
+Deep Sea Shark                                  | 28593363
+Destiny HERO - Destroyer Phoenix Enforcer       | 60461804
+Destruction Dragon                              | 44373896
+Dharc the Dark Charmer, Gloomy                  | 8264361
+Dingirsu, the Orcust of the Evening Star        | 93854893
+Diplexer Chimera                                | 78084378
+Divine Arsenal AA-ZEUS - Sky Thunder            | 90448279
+Doom Virus Dragon                               | 22804644
+Downerd Magician                                | 72167543
+Dragoness the Wicked Knight                     | 70681994
+
+## E
+Ebon Illusion Magician                          | 96471335
+Elder Entity N'tss                              | 80532587
+El Shaddoll Alpkallone                          | 50907446
+El Shaddoll Construct	                        | 20366274
+El Shaddoll Shekhinaga                          | 74822425
+El Shaddoll Wendigo                             | 74009824
+El Shaddoll Winda                               | 94977269
+Empress Judge                                   | 15237615
+Eria the Water Charmer, Gentle                  | 73309655
+Evilswarm Exciton Knight                        | 46772449
+Evilswarm Nightmare                             | 359563
+
+## G
+Gagaga Cowboy                                   | 12014404
+Gagagaga Magician                               | 86331741
+Gallant Granite                                 | 32530043
+Geomathmech Final Sigma                         | 42632209
+Giltia the D. Knight                            | 51828629
+
+## H
+Harpie Conductor                                | 85696777
+Herald of the Arc Light                         | 79606837
+Hi-Speedroid Rubber Band Shooter                | 72813401
+Hot Red Dragon Archfiend Abyss                  | 9753964
+
+## I
+I:P Masquerena                                  | 65741786
+
+## K
+Kaminari Attack                                 | 9653271
+Karbonala Warrior                               | 54541900
+Knightmare Cerberus                             | 75452921
+Knightmare Gryphon                              | 65330383
+Knightmare Phoenix                              | 2857636
+Knightmare Unicorn                              | 38342335, 38342336
+
+## L
+Link Spider                                     | 98978921
+Linkuriboh                                      | 41999284
+Lyna the Light Charmer, Lustrous                | 9839945
+
+## M
+Mecha Phantom Beast Dracossack                  | 22110647
+Mekk-Knight Crusadia Avramax                    | 21887175
+Metal Dragon                                    | 9293977
+Mirror Force Dragon                             | 84687358
+Mudragon of the Swamp                           | 54757758
+
+## N
+Number 11: Big Eye                              | 80117527
+Number 27: Dreadnought Dreadnoid                | 8387138
+Number 32: Shark Drake                          | 65676461
+Number 38: Hope Harbinger Dragon Titanic Galaxy | 63767246
+Number 39: Utopia                               | 84013237, 84013238
+Number 39: Utopia Double                        | 62517849
+Number 41: Bagooska the Terribly Tired Tapir    | 90590303
+Number 52: Diamond Crab King                    | 7194917
+Number 60: Dugares the Timeless                 | 66011101
+Number 76: Harmonizer Gradielle                 | 92015800
+Number 82: Heartlandraco                        | 31437713
+Number 97: Draglubion                           | 28400508
+Number 100: Numeron Dragon                      | 57314798
+Number 101: Silent Honor ARK                    | 48739166
+Number F0: Utopic Draco Future                  | 26973555
+Number F0: Utopic Future                        | 65305468
+Number S39: Utopia the Lightning                | 56832966
+
+## O
+Odd-Eyes Rebellion Dragon                       | 45627618
+Odd-Eyes Rebellion Dragon Overlord              | 98452268
+
+## P
+Panzer Dragon                                   | 72959823
+Predaplant Chimerafflesia                       | 25586143
+Predaplant Dragostapelia                        | 69946549
+Predaplant Verte Anaconda                       | 70369116
+Psychic End Punisher                            | 60465049
+PSY-Framelord Lambda                            | 8802510
+PSY-Framelord Omega                             | 74586817
+Punished Eagle                                  | 74703140
+
+## R
+Rabid Horseman                                  | 94905343
+Raider's Knight                                 | 28781003
+Raidraptor - Arsenal Falcon                     | 96157835
+Raidraptor - Blade Burner Falcon                | 96592102
+Raidraptor - Blaze Falcon                       | 45533023
+Raidraptor - Fiend Eagle                        | 52323874
+Raidraptor - Final Fortress Falcon              | 43047672
+Raidraptor - Force Strix                        | 73347079
+Raidraptor - Revolution Falcon                  | 81927732
+Raidraptor - Revolution Falcon - Air Raid       | 79985120
+Raidraptor - Rise Falcon                        | 73887236
+Raidraptor - Satellite Cannon Falcon            | 23603403
+Raidraptor - Stranger Falcon                    | 15092394
+Raidraptor - Ultimate Falcon                    | 86221741
+Raidraptor - Wise Strix                         | 36429703
+Red-Eyes Flare Metal Dragon                     | 44405066
+Red-Eyes Dark Dragoon                           | 37818794
+Relinquished Anima                              | 94259633
+Roaring Ocean Snake                             | 19066538
+
+## S
+Salamangrat Almiraj                             | 60303245
+Samsara, Dragon of Rebirth                      | 29143726
+Security Dragon                                 | 99111753
+Selene, Queen of the Master Magicians           | 45819647
+Shooting Riser Dragon                           | 68431965
+Skull Knight                                    | 2504891
+Stardust Dragon                                 | 44508095
+Starving Venom Fusion Dragon                    | 41209827
+Striker Dragon                                  | 73539069
+Super Quantal Mech King Great Magnus            | 84025439
+
+## T
+T.G. Wonder Magician                            | 98558751
+
+The Phantom Knights of Break Sword              | 62709239
+The Phantom Knights of Rusty Bardiche           | 26692769
+Thousand-Eyes Restrict                          | 63519819
+
+Time Thief Redoer                               | 55285840
+Titaniklad the Ash Dragon                       | 41373230
+
+Toadally Awesome                                | 90809975
+Topologic Bomber Dragon                         | 5821478
+Topologic Trisbaena                             | 72529749
+Topologic Zeroboros                             | 66403530
+Tornado Dragon                                  | 6983839
+
+Tri-Brigade Ferrijit the Barren Blossom         | 26847978
+Tri-Brigade Shuraig the Ominous Omen            | 99726621
+
+Trickstar Band Sweet Guitar                     | 91272072
+Trickstar Bella Medonna                         | 41302052
+Trickstar Black Catbat                          | 94626871
+Trickstar Bloom                                 | 77307161
+Trickstar Crimson Heart                         | 51011872
+Trickstar Delfiendium                           | 3792766
+Trickstar Divaridis                             | 14365823
+Trickstar Foxglove Witch                        | 86750474
+Trickstar Holly Angel                           | 32448765, 32448766
+
+## U
+Underworld Goddess of the Closed World          | 98127546
+
+## V
+Virtual World Kyubi - Shenshen                  | 92519087
+
+## W
+World Chalice Guardragon Almarduke              | 95793022
+Wynn the Wind Charmer, Verdant                  | 30674956
