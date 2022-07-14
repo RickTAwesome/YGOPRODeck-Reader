@@ -1,0 +1,79 @@
+This file contains the URL to all the decks used for testing the YGOPRODeck Reader. Please note that none of the decks were picked based on how good they are or what cards they include, only by their names and tags.
+
+The list is sorted alphabetically by archetypes.
+
+Buster Blader:
+- https://ygoprodeck.com/buster-blader-despia/
+- https://ygoprodeck.com/pure-buster-blader-3/
+- https://ygoprodeck.com/buster-blader-22/
+- https://ygoprodeck.com/buster-blader-red-eyes/
+- https://ygoprodeck.com/buster-blader-ft-dragon-link-dragon-lockdown/
+- https://ygoprodeck.com/buster-blader-red-eyes-ft-dragoon/
+- https://ygoprodeck.com/buster-blader-pure-master-duel/
+- https://ygoprodeck.com/pure-buster-blader/
+- https://ygoprodeck.com/infernoble-with-epic-buster-blader-combo-master-duel/
+- https://ygoprodeck.com/infernoble-with-epic-buster-blader-combo/
+- https://ygoprodeck.com/welshwhales-branded-buster-blader-tcg/
+- https://ygoprodeck.com/buster-blade-x-dark-magician/
+- https://ygoprodeck.com/exbuster/
+- https://ygoprodeck.com/dark-blade-dragon-slayers/
+- https://ygoprodeck.com/smashing-buster-blader-mr-2020/
+- https://ygoprodeck.com/buster-blader-11/
+
+Raidraptor:
+- https://ygoprodeck.com/raidraptor-casual/
+- https://ygoprodeck.com/raidraptor-kali-yuga-lock/
+- https://ygoprodeck.com/pk-raidraptor/
+- https://ygoprodeck.com/guardnas-phantom-knight-raidraptor-june-2022-csm-top-16/
+- https://ygoprodeck.com/raidraptor-deck-in-master-duel/
+- https://ygoprodeck.com/shun-raidraptor-deck/
+- https://ygoprodeck.com/raidraptor-36/
+- https://ygoprodeck.com/raidraptor-pure-raidraptor-monster-in-extra-deck/
+- https://ygoprodeck.com/phantom-knights-raidraptors-2/
+- https://ygoprodeck.com/raidraptor-35/
+- https://ygoprodeck.com/simorgh2022/
+- https://ygoprodeck.com/pure-raidraptor-3/
+- https://ygoprodeck.com/raidraptor-pure/
+- https://ygoprodeck.com/raidraptor-pk/
+- https://ygoprodeck.com/mostly-pure-raidraptors/
+- https://ygoprodeck.com/pure-raidraptor-2/
+- https://ygoprodeck.com/pure-raidraptor/
+- https://ygoprodeck.com/ophegel-fuck-orcust-december-2018/
+- https://ygoprodeck.com/raidraptor-deck-purewing-requital-shay-obsidian-yu-gi-oh/
+
+Toon:
+- https://ygoprodeck.com/toons-14/
+- https://ygoprodeck.com/mundo-toon-toon-world/
+- https://ygoprodeck.com/toon-deck-18/
+- https://ygoprodeck.com/toon-deck-17/
+- https://ygoprodeck.com/toon-deck-16/
+- https://ygoprodeck.com/prog-save/
+- https://ygoprodeck.com/pegasus-duelist-kingdom-deck/
+- https://ygoprodeck.com/the-comics-hand/
+- https://ygoprodeck.com/pure-toons-dragoon/
+- https://ygoprodeck.com/pure-toon-deck/
+- https://ygoprodeck.com/pure-toons/
+- https://ygoprodeck.com/toon-deck-pure-deck-build/
+- https://ygoprodeck.com/pure-fiend-toon/
+- https://ygoprodeck.com/work-in-progress-toon/
+- https://ygoprodeck.com/toon-2020-4/
+- https://ygoprodeck.com/toon-2020-3/
+- https://ygoprodeck.com/toon-xyz/
+- https://ygoprodeck.com/toon-deck-pegasus-style/
+- https://ygoprodeck.com/toon-34/
+- https://ygoprodeck.com/toon-mayhem-2-0/
+
+Trickstar:
+- https://ygoprodeck.com/trickstar-23/
+- https://ygoprodeck.com/anime-format-trickstar-shaddoll/
+- https://ygoprodeck.com/trickstar-24/
+- https://ygoprodeck.com/trickstar-post-tcg-banlist/
+- https://ygoprodeck.com/farstar/
+- https://ygoprodeck.com/trickstar-post-tcg-banlist-may-2022/
+- https://ygoprodeck.com/idol-queens-trickstar-deck/
+- https://ygoprodeck.com/dont-play-this-damn-it/
+- https://ygoprodeck.com/slow-roast-idols-v2/
+- https://ygoprodeck.com/burning-trickstar/
+- https://ygoprodeck.com/trickstar-master-duel/
+- https://ygoprodeck.com/enforcer-trickstars/
+- https://ygoprodeck.com/trickstar-adventurer-p-u-n-k-eldlich/

@@ -19,7 +19,7 @@ namespace YGOPRODeck_Reader
         {
             get
             {
-                DirectoryInfo directory = new DirectoryInfo(@"C:\Users\nghun\OneDrive\Desktop\Random Stuff\Everything\Programming\YGOPRODeck Reader\YGOPRODeck Reader\bin\Debug"); // Replace the empty string with the directory path to the debug folder that contains all the .ydk files you want to compare.
+                DirectoryInfo directory = new DirectoryInfo(@""); // Replace the empty string with the directory path to the debug folder that contains all the .ydk files you want to compare.
 
                 FileInfo[] Files = directory.GetFiles("*.ydk");
                 string[] fileNames = Files.Select(f => f.Name).ToArray();
@@ -253,7 +253,7 @@ namespace YGOPRODeck_Reader
                     Function.SortAndWrite();
                     break;
                 case 'n':
-                    Function.WriteCount(0);
+                    Function.WriteCount();
                     break;
                 default:
                     break;
@@ -421,11 +421,11 @@ namespace YGOPRODeck_Reader
             return list;
         }
 
-        public static void WriteCount(int i)
+        public static void WriteCount()
         {
             for (Database.Node current = Database.head; current != null; current = current.next)
             {
-                if (current.count > i)
+                if (current.count > 0)
                 {
                     Console.WriteLine($"{current.count}x - {current.carddata.name}");
                 }
@@ -443,7 +443,10 @@ namespace YGOPRODeck_Reader
 
             foreach (var Node in list)
             {
-                Console.WriteLine(Node);
+                if (Node.count > 0)
+                {
+                    Console.WriteLine(Node);
+                }
             }
         }
     } // Essentially a pointless class, due to the fact you could move all the methods to the 'Database' class and save yourself the effort to make Nodes public and static, which basically also makes them pointless, but this looks cooler. And also makes me look stupider.
